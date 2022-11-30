@@ -1,0 +1,25 @@
+.footer {
+     height: 50vh;
+     background-color: #90D4C5;
+}
+.footer_logo {
+     font-size: 2em;
+     font-weight: bold;
+     margin-bottom: 40px;
+     color : #2C7363 ;
+}
+.link {
+     text-decoration: none;
+     margin: 0 30px;
+     font-weight: 500;
+}
+.footer_media_sociaux {
+     margin-top: 50px;
+
+}
+.media_sociaux {
+     margin: 25px;
+     font-size: 1.5em;
+     font-weight: bold;
+     color: #2C7363;
+}

@@ -1,0 +1,20 @@
+.navbar {
+     background-color: #3CBDFE;
+     position: fixed;
+     width: 100vw;
+     z-index: 999;
+}
+.header_logo {
+     font-weight: bold;
+     font-size: 2em;
+     color: #ffffff;
+}
+.btn_contact {
+     border: none;
+     padding: 12px 40px;
+     border-radius: 20px;
+     margin-left: 20px;
+     color: #272D39;
+     font-weight: bold;
+     background-color: #ffffff;
+}
